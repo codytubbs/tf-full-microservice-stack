@@ -1,6 +1,8 @@
 ### Summary
 A near 1:1 Ruby AWS SDK to Terraform port of https://github.com/codytubbs/ruby-aws-microservice
 
+- Mainly for demo purposes only  
+
 -  View **full-microservice-stack.tf** header for details.
 
 ##
