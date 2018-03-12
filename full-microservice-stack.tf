@@ -10,7 +10,7 @@
    Launches a stack that is load-balanced, auto-scaling, auto-healing, and contains a microservice (NGINX) in AWS.
 
    Details:
-   Inital Terraform code that can construct, build, launch and version control a base AWS stack from scratch.  This
+   Initial Terraform code that can construct, build, launch and version control a base AWS stack from scratch.  This
    "stack"[2][3] is created within a single AWS "Region"[4] that uses two AWS "Availability Zones"[5].  For this
    stack, a single "VPC"[6] is used and as a demo, the "microservice"[7][8] deployed is NGINX, which is a part of
    an "auto scaling group"[9] and "launch configuration"[10].  The "ELB"[11] that is configured and deployed is an
